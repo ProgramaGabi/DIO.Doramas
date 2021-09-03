@@ -1,0 +1,16 @@
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.csproj.AssemblyReference.cache
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.AssemblyInfoInputs.cache
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.AssemblyInfo.cs
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.csproj.CoreCompileInputs.cache
+C:\Users\gabyv\DIO.Doramas\bin\Debug\net5.0\DIO.Doramas.exe
+C:\Users\gabyv\DIO.Doramas\bin\Debug\net5.0\DIO.Doramas.deps.json
+C:\Users\gabyv\DIO.Doramas\bin\Debug\net5.0\DIO.Doramas.runtimeconfig.json
+C:\Users\gabyv\DIO.Doramas\bin\Debug\net5.0\DIO.Doramas.runtimeconfig.dev.json
+C:\Users\gabyv\DIO.Doramas\bin\Debug\net5.0\DIO.Doramas.dll
+C:\Users\gabyv\DIO.Doramas\bin\Debug\net5.0\ref\DIO.Doramas.dll
+C:\Users\gabyv\DIO.Doramas\bin\Debug\net5.0\DIO.Doramas.pdb
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.dll
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\ref\DIO.Doramas.dll
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.pdb
+C:\Users\gabyv\DIO.Doramas\obj\Debug\net5.0\DIO.Doramas.genruntimeconfig.cache
